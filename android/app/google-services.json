@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "582747118706",
+    "firebase_url": "https://flash-chat-9d58e.firebaseio.com",
+    "project_id": "flash-chat-9d58e",
+    "storage_bucket": "flash-chat-9d58e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582747118706:android:117f3ec1b59dfd35a876eb",
+        "android_client_info": {
+          "package_name": "com.royalcourtbd.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582747118706-7lolmf61vh4hss78houpekp1s3tla8pc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqvq3kYWcqJok6UD7qPXpx93cizFPy6bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582747118706-7lolmf61vh4hss78houpekp1s3tla8pc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
